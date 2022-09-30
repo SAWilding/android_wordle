@@ -1,30 +1,28 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+To demonstrate my understanding of the Kotlin programming language, I developed an android app.  The app is of the popular word game, Wordle.  The player is given 6 guesses to guess a random five letter word.  The player is given hints based on the word they guess.  
 
-{Provide a description the software that you wrote to demonstrate the Kotlin language.}
+Completing this project helped me learn Kotlin and prepare me for a future software development career.  
 
-{Describe your purpose for writing this software.}
+Here is a video demonstration of my software
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/PKWBXVCnFys)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* Intellij Studio
+* Android Studio
+* Kotlin
+* XML
 
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [YouTube](https://www.youtube.com/)
+* [Stack Overflow](https://stackoverflow.com/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Save and print the previous guesses and hints to the screen.
+* Fetch the words from online.
+* Add visual effects (colors, animations, etc.)
